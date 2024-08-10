@@ -13,7 +13,7 @@ A VB.NET class for managing INI files, preserving the original order of sections
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/inifile-utility.git
+    git clone https://github.com/MikedaSpike/inifile-utility.git
     ```
 2. Open the project in Visual Studio.
 3. Build the solution to restore dependencies.
