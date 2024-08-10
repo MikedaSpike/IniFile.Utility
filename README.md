@@ -83,7 +83,7 @@ Dim success As Boolean = ini.RemoveAllSections()
 ```
 
 ## History
-This code was originally created by Draco and Adultery and was shipped with the PinballX plugin. 5Cutters and Mike Da Spike modified it for use with the Database Manager and are now sharing it.
+This code was originally created by Draco and Adultery based on Ludvik Jerabek and was shipped with the PinballX plugin template. 5Cutters and Mike Da Spike modified it for use with the Database Manager and are now sharing it.
 
 ## Usage
 Contributions are welcome! Please fork the repository and submit a pull request.
