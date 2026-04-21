@@ -1,3 +1,11 @@
+![Latest Release](https://img.shields.io/github/v/release/MikedaSpike/IniFile.Utility)
+![Downloads](https://img.shields.io/github/downloads/MikedaSpike/IniFile.Utility/total)
+![License](https://img.shields.io/github/license/MikedaSpike/IniFile.Utility)
+![Issues](https://img.shields.io/github/issues/MikedaSpike/IniFile.Utility)
+![Last Commit](https://img.shields.io/github/last-commit/MikedaSpike/IniFile.Utility)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/MikedaSpike/IniFile.Utility)
+![Stars](https://img.shields.io/github/stars/MikedaSpike/IniFile.Utility)
+
 # INI File Utility
 
 A VB.NET class for managing INI files, preserving the original order of sections and keys, with methods for loading, saving, adding, removing, and renaming entries.
